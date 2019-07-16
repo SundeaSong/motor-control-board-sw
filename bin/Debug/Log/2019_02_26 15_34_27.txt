@@ -1,0 +1,6 @@
+2019/2/26 15:33:46 => * Motor Control board debug software V2.0
+2019/2/26 15:33:46 => * Open port ok
+2019/2/26 15:33:59 => * read to Driverboard Axis parament [ 0 ]
+2019/2/26 15:33:59 => * read to Driverboard Axis parament [ 0 ]
+2019/2/26 15:33:59 => * read to Driverboard Axis parament [ 0 ]
+2019/2/26 15:33:59 => * read to Driverboard Axis parament [ 0 ]

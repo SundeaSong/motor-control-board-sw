@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\EE\编程代码\work\电机控制\Motor_Controlboard_SW\Motor controlboard\bin\Debug\Motor Controlboard Debug Tools.exe.config
+C:\Users\User\Desktop\EE\编程代码\work\电机控制\Motor_Controlboard_SW\Motor controlboard\bin\Debug\Motor Controlboard Debug Tools.exe
+C:\Users\User\Desktop\EE\编程代码\work\电机控制\Motor_Controlboard_SW\Motor controlboard\bin\Debug\Motor Controlboard Debug Tools.pdb
+C:\Users\User\Desktop\EE\编程代码\work\电机控制\Motor_Controlboard_SW\Motor controlboard\obj\Debug\Modbus Debug.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\EE\编程代码\work\电机控制\Motor_Controlboard_SW\Motor controlboard\obj\Debug\WindowsFormsApp.FormDebug.resources
+C:\Users\User\Desktop\EE\编程代码\work\电机控制\Motor_Controlboard_SW\Motor controlboard\obj\Debug\WindowsFormsApp.FormList.resources
+C:\Users\User\Desktop\EE\编程代码\work\电机控制\Motor_Controlboard_SW\Motor controlboard\obj\Debug\WindowsFormsApp.FormMain.resources
+C:\Users\User\Desktop\EE\编程代码\work\电机控制\Motor_Controlboard_SW\Motor controlboard\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\User\Desktop\EE\编程代码\work\电机控制\Motor_Controlboard_SW\Motor controlboard\obj\Debug\Modbus Debug.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\EE\编程代码\work\电机控制\Motor_Controlboard_SW\Motor controlboard\obj\Debug\Motor Controlboard Debug Tools.exe
+C:\Users\User\Desktop\EE\编程代码\work\电机控制\Motor_Controlboard_SW\Motor controlboard\obj\Debug\Motor Controlboard Debug Tools.pdb
